@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+snimki/
+snimki-malye/
+arhiv/
+uhod.log
+.razbrano.json
+sceny.json
+СВОДКА.md
+*.log
+.venv/
